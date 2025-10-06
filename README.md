@@ -1,4 +1,4 @@
-# Shubham Yadav - Aspiring Data Scientist
+# Shubham Yadav - Aspiring Data Analyst
 
 👋 Hello, I'm Shubham Yadav, an aspiring Data Scientist with a strong foundation in research analysis and a passion for extracting insights from data. I'm on a journey to combine my analytical skills with advanced data science techniques to solve complex problems and drive informed decisions.
 
